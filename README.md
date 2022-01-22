@@ -8,6 +8,6 @@ In the future you will be able to buy our software to manage your appointment.
 
 # How to use:
 
-<h1> Once you have bought our software follow these intructions <h1/>
+<h3> Once you have bought our software follow these intructions <h3/>
 
 ![Web capture_21-1-2022_105927_user-images githubusercontent com](https://user-images.githubusercontent.com/83841968/150559014-b4b80291-4212-4d7c-ba6c-da9c24e4a1f0.jpeg)
