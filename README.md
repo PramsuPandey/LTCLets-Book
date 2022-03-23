@@ -4,7 +4,7 @@ Hi, This is the LTCLetsbook appointment management system.
 This web application is powered by MySQL, PHP and other programming languages.
 
 Soon the LTC-LetsBook website will be online, running on 000webhost.
-In the future you will be able to buy our software to manage your appointment.
+In the future you will be able to buy our software to manage your appointments.
 
 # How to use:
 
